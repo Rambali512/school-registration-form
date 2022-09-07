@@ -1,0 +1,19 @@
+.main-wrapper {
+    margin-top: 30px;
+}
+
+.page-title {
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.school-registration-form {
+    width: 800px;
+    margin: auto;
+}
+
+.valid-feedback, .invalid-feedback {
+    display: block;
+}
+
